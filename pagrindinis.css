@@ -1,0 +1,42 @@
+.sarasas-be-taskiuku {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+#meniu li {
+    display: inline;
+}
+
+#meniu a {
+    text-decoration: none;
+    padding: 20px;
+    background-color: cadetblue;
+    color: rgb(243, 236, 236);
+    display:block;
+    float: left;
+}
+
+#soninis-meniu {
+    width: 30%;
+}
+
+#keliones-aprasas {
+    width: 60%;
+}
+
+#soninis-meniu img {
+    width: 100%;
+    height: 120px;
+}
+
+.paryskintas-tekstas {
+    font-weight: bold;
+}
+
+.kaireje {
+    float: left;
+}
+
+.desineje {
+    float: right;
+}
